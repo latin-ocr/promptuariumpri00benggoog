@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./promptuariumpri00benggoog/promptuariumpri00benggoog_0006.png"; bbox 0 0 610 1250; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 139 544 478 618">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 139 544 478 618">
+     <span class='ocr_line' id='line_1_1' title="bbox 239 544 381 563; baseline 0.007 -1"><span class='ocrx_word' id='word_1_1' title='bbox 239 545 263 563; x_wconf 79' lang='grc' dir='ltr'>Α.</span> <span class='ocrx_word' id='word_1_2' title='bbox 301 546 323 562; x_wconf 79' lang='lat' dir='ltr'>R.</span> <span class='ocrx_word' id='word_1_3' title='bbox 361 544 381 563; x_wconf 77' lang='lat' dir='ltr'>P.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 139 590 478 618; baseline -0.003 0"><span class='ocrx_word' id='word_1_4' title='bbox 139 590 315 618; x_wconf 77' lang='lat' dir='ltr'>N1COLA1</span> <span class='ocrx_word' id='word_1_5' title='bbox 339 590 478 617; x_wconf 70' lang='lat' dir='ltr'>BENGER</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 87 650 564 745">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 87 650 564 745">
+     <span class='ocr_line' id='line_1_3' title="bbox 87 650 531 699; baseline -0.005 -18"><span class='ocrx_word' id='word_1_6' title='bbox 87 650 531 699; x_wconf 68' lang='lat' dir='ltr'><strong>PRQMPTUARIUM</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 124 708 564 745; baseline -0.002 -12"><span class='ocrx_word' id='word_1_7' title='bbox 124 708 496 735; x_wconf 79' lang='lat' dir='ltr'>PRIVILEGloRuM.</span> <span class='ocrx_word' id='word_1_8' title='bbox 559 743 564 745; x_wconf 10' lang='grc' dir='ltr'><strong>ξ</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 184 851 367 885">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 184 851 411 885">
+     <span class='ocr_line' id='line_1_5' title="bbox 184 851 367 885; baseline 0 -1"><span class='ocrx_word' id='word_1_9' title='bbox 184 881 192 884; x_wconf 21' lang='grc' dir='ltr'><em>η</em></span> <span class='ocrx_word' id='word_1_10' title='bbox 228 851 297 883; x_wconf 38' lang='grc' dir='ltr'>βψ</span> <span class='ocrx_word' id='word_1_11' title='bbox 311 856 367 885; x_wconf 54' lang='lat'>-13-›2&#39;</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
